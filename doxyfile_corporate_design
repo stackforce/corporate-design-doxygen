@@ -1,4 +1,4 @@
 PROJECT_LOGO           = stackforce_logo.svg
 HTML_HEADER            = sf_header.html
 HTML_FOOTER            = sf_footer.html
-HTML_EXTRA_STYLESHEET  = bootstap_v3.3.7.min.css sf_stylesheet.css
+HTML_EXTRA_STYLESHEET  = bootstrap.min.css sf_stylesheet.css
