@@ -1601,6 +1601,10 @@ th.markdownTableHeadCenter, td.markdownTableBodyCenter {
 	text-shadow: none;
 }
 
+#nav-tree .label {
+  margin:12px;
+}
+
 .ui-resizable-e {
 	background: none;
 	background-color: #5da029;
