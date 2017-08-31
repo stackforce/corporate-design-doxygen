@@ -885,7 +885,7 @@ table.doxtable td, table.doxtable th {
 }
 
 table.doxtable th {
-	background-color: #374F7F;
+	background-color: #545454;
 	color: #FFFFFF;
 	font-size: 110%;
 	padding-bottom: 4px;
@@ -1599,6 +1599,10 @@ th.markdownTableHeadCenter, td.markdownTableBodyCenter {
 	background: none;
 	background-color: #5da029;
 	text-shadow: none;
+}
+
+#nav-tree .label {
+  margin:12px;
 }
 
 .ui-resizable-e {
