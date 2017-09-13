@@ -1145,6 +1145,7 @@ dl.section dd {
 	text-align: center;
 	vertical-align: bottom;
 	border-collapse: separate;
+       padding: 15px 0;
 }
  
 #projectlogo img
