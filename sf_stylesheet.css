@@ -886,6 +886,7 @@ table.doxtable td, table.doxtable th {
 
 table.doxtable th {
     background-color: #545454;
+    background-image: none;
     color: #FFFFFF;
     font-size: 110%;
     padding-bottom: 4px;
