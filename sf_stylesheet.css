@@ -160,7 +160,7 @@ dl.el {
 }
 
 pre.fragment {
-    border: 1px solid #C4CFE5;
+    border: 1px solid #C9C9C9;
     background-color: #FBFCFD;
     padding: 4px 6px;
     margin: 4px 8px 4px 2px;
@@ -176,7 +176,7 @@ div.fragment {
     padding: 0px;
     margin: 4px 8px 4px 2px;
     background-color: #FBFCFD;
-    border: 1px solid #C4CFE5;
+    border: 1px solid #C9C9C9;
 }
 
 div.line {
