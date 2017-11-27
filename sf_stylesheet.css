@@ -1595,6 +1595,15 @@ th.markdownTableHeadCenter, td.markdownTableBodyCenter {
     background: none;
     background-color: white;
 }
+
+#nav-tree .label a {
+    color: #000000;
+}
+
+#nav-tree .item:hover {
+    background-color: #8dbc69;
+}
+
 #nav-tree .selected {
     background: none;
     background-color: #5da029;
