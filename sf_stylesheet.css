@@ -941,11 +941,10 @@ table.fieldtable {
 }
 
 .fieldtable th {
-    background-image:url('nav_f.png');
-    background-repeat:repeat-x;
-    background-color: #E2E8F2;
+    background-image:none;
+    background-color: #8dbc69;
     font-size: 90%;
-    color: #253555;
+    color: #000000;
     padding-bottom: 4px;
     padding-top: 5px;
     text-align:left;
