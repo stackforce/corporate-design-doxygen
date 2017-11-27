@@ -911,8 +911,8 @@ table.fieldtable {
 
 .fieldtable td.fieldtype, .fieldtable td.fieldname {
     white-space: nowrap;
-    border-right: 1px solid #A8B8D9;
-    border-bottom: 1px solid #A8B8D9;
+    border-right: 1px solid #545454;
+    border-bottom: 1px solid #545454;
     vertical-align: top;
 }
 
@@ -921,7 +921,7 @@ table.fieldtable {
 }
 
 .fieldtable td.fielddoc {
-    border-bottom: 1px solid #A8B8D9;
+    border-bottom: 1px solid #545454;
     /*width: 100%;*/
 }
 
