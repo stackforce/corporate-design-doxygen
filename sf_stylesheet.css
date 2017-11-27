@@ -1591,6 +1591,12 @@ th.markdownTableHeadCenter, td.markdownTableBodyCenter {
     background: none;
 }
 
+.sm-dox ul a:hover {
+    background-image: none;
+    color: white;
+    background-color: #5da029;
+}
+
 #nav-tree {
     background: none;
     background-color: white;
