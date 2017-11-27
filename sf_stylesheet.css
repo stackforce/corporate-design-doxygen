@@ -879,7 +879,7 @@ table.doxtable {
 }
 
 table.doxtable td, table.doxtable th {
-    border: 1px solid #2D4068;
+    border: 1px solid #545454;
     padding: 3px 7px 2px;
 }
 
@@ -895,7 +895,7 @@ table.doxtable th {
 table.fieldtable {
     /*width: 100%;*/
     margin-bottom: 10px;
-    border: 1px solid #A8B8D9;
+    border: 1px solid #545454;
     border-spacing: 0px;
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
