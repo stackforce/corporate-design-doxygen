@@ -884,9 +884,9 @@ table.doxtable td, table.doxtable th {
 }
 
 table.doxtable th {
-    background-color: #545454;
+    background-color: #8dbc69;
     background-image: none;
-    color: #FFFFFF;
+    color: #000000;
     font-size: 110%;
     padding-bottom: 4px;
     padding-top: 5px;
