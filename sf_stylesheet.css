@@ -664,6 +664,7 @@ dl.reflist dd {
 .params .paramname, .retval .paramname {
     font-weight: bold;
     vertical-align: top;
+    padding-right: 5px;
 }
 
 .params .paramtype {
