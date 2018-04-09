@@ -437,7 +437,7 @@ th.dirtab {
 hr {
     height: 0px;
     border: none;
-    border-top: 1px solid #4A6AAA;
+    border-top: 1px solid #2c4d13;
 }
 
 hr.footer {
@@ -1161,6 +1161,7 @@ dl.section dd {
 #projectname
 {
     font: 300% Tahoma, Arial,sans-serif;
+    font-weight: bold;
     margin: 0px;
     padding: 2px 0px;
 }
@@ -1504,7 +1505,6 @@ tr.heading h2 {
 
 /* @group Markdown */
 
-/*
 table.markdownTable {
     border-collapse:collapse;
     margin-top: 4px;
@@ -1512,7 +1512,7 @@ table.markdownTable {
 }
 
 table.markdownTable td, table.markdownTable th {
-    border: 1px solid #2D4068;
+    border: 1px solid #545454;
     padding: 3px 7px 2px;
 }
 
@@ -1524,27 +1524,27 @@ table.markdownTableBodyLeft td, table.markdownTable th {
     padding: 3px 7px 2px;
 }
 
-th.markdownTableHeadLeft th.markdownTableHeadRight th.markdownTableHeadCenter th.markdownTableHeadNone {
-    background-color: #374F7F;
-    color: #FFFFFF;
+th.markdownTableHeadLeft, th.markdownTableHeadRight, th.markdownTableHeadCenter, th.markdownTableHeadNone {
+    background-color: #8DBC69;
+    color: #000000;
     font-size: 110%;
     padding-bottom: 4px;
     padding-top: 5px;
 }
 
-th.markdownTableHeadLeft {
+th.markdownTableHeadLeft, td.markdownTableBodyLeft {
     text-align: left
 }
 
-th.markdownTableHeadRight {
+th.markdownTableHeadRight, td.markdownTableBodyRight {
     text-align: right
 }
 
-th.markdownTableHeadCenter {
+th.markdownTableHeadCenter, td.markdownTableBodyCenter {
     text-align: center
 }
-*/
 
+/*
 table.markdownTable {
     border-collapse:collapse;
     margin-top: 4px;
@@ -1578,6 +1578,7 @@ th.markdownTableHeadRight, td.markdownTableBodyRight {
 th.markdownTableHeadCenter, td.markdownTableBodyCenter {
     text-align: center
 }
+*/
 
 .sm-dox {
     background-image: none;
